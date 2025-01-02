@@ -90,3 +90,23 @@ Measures the average time taken by law enforcement agencies to respond to report
 
 10. Public Awareness and Reporting
 Assesses the level of public awareness and willingness to report crimes.
+
+#Project Insights
+
+1. Consistent Increase in Crimes Over the Years
+The data shows a disturbing trend of increasing crimes against women over the two decades, with significant spikes in certain years, such as 2014 and 2021.
+
+2. Top Contributing States
+Uttar Pradesh, West Bengal, and Rajasthan are the top contributors to the overall crime statistics, highlighting a need for targeted interventions in these regions.
+
+3. High Incidence of Specific Crimes
+Rape, kidnapping, dowry deaths, and domestic violence are among the most reported crimes, indicating persistent issues in these areas.
+
+4. Regional Disparities
+There is a stark contrast between states with high crime rates and those with low crime rates, such as Andaman & Nicobar Islands and Lakshadweep. This disparity suggests varying levels of law enforcement effectiveness, socio-economic conditions, and public awareness across different regions.
+
+5. Effectiveness of Legal System
+The percentage of cases resulting in convictions and the response time of law enforcement are critical factors in assessing the effectiveness of the legal system in addressing crimes against women.
+
+6. Public Awareness and Reporting
+The level of public awareness and willingness to report crimes plays a significant role in the data. Higher awareness can lead to increased reporting, which can be seen in states with higher crime numbers.
